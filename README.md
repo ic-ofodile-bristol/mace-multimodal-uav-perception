@@ -1,6 +1,4 @@
-# Towards Multimodal Spatiotemporal Learning of UAV–Environment Interactions for Autonomous Perception
-
-**Research code accompanying a manuscript submitted to the IEEE Aerospace Conference 2027.**
+# Multimodal Spatiotemporal Learning of UAV–Environment Interactions for Autonomous Perception
 
 This repository contains selected implementations from research on **temporally aware UAV–environment perception** using synchronised onboard video and aircraft telemetry. The case study concerns fixed-wing UAV encounters with volcanic plumes at Volcán de Fuego, Guatemala.
 
@@ -78,7 +76,7 @@ Raw flight videos, aircraft telemetry, processed datasets, trained weights and e
 *Towards Multimodal Spatiotemporal Learning of UAV–Environment Interactions for Autonomous Perception.*  
 **Manuscript submitted to IEEE Aerospace Conference 2027.**
 
-The manuscript is **submitted, not yet accepted or published**. A public paper link, DOI and formal proceedings citation will be added only when available and authorised.
+A public paper link, DOI and formal proceedings citation will be added when available.
 
 ## Contact
 

@@ -1,0 +1,54 @@
+# Raw datasets and recordings
+/data/
+/Flights/
+/Processed/
+
+# Generated outputs
+/experiments/
+/runs/
+/results/
+/logs/
+/predictions/
+/predictions_continuous/
+/predictions_state_constrained/
+
+# Environments
+/envs/
+/venv/
+/.venv/
+
+# Python caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Temporary files
+*.log
+.DS_Store
+
+# External repository
+/gpmf-parser/
+
+# Accidental files
+/--checkpoint
+/--flights
+
+# Credentials
+.env
+.env.*
+*.pem
+*.key
+
+# SLURM job outputs
+*.out
+*.err
+
+# Generated experiment directories within scripts
+/scripts/**/experiments/
+/scripts/**/logs/
